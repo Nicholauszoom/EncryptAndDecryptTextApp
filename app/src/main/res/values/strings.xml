@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EncryptAndDecryptTextApp</string>
+    <string name="enter_your_text">Enter Your Text</string>
+    <string name="caesar_cipher_algorithm">Caesar Cipher Algorithm</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="your_message">Your Message</string>
+    <string name="cipher_text">Cipher Text</string>
+    <string name="key">Key</string>
+</resources>
